@@ -1,0 +1,11 @@
+.container{
+    height:75px;
+    width:500px;
+    background-color:dodgerblue;
+    padding: 20px;
+    color: azure;
+    font-size: larger;
+}
+.heading{
+    color:dodgerblue;
+}
